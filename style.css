@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    border: 2px whitesmoke solid;
+}
+div{
+    align-items: center;
+    margin-left: 25%;
+    margin: 10px;
+    padding: 10px;
+}
+.one{
+    color: white;
+    text-align: center;
+
+}
+p{
+      font-family: "Dosis", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: normal;
+      font-style: normal;
+}
+img{
+    border: 5px solid white;
+    height: 500px;
+    width: 100%;
+}
